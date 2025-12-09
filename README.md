@@ -40,10 +40,6 @@ Steel Fiber additions (after optimum silica fume mix):
 - Combination of Silica Fume + Steel Fibers provided best performance
 ## 📜 Conclusion
 The combination of Silica Fume and Steel Fibers significantly improves the strength properties of concrete. The optimized mix provides superior crack resistance and can be beneficial for demanding structural applications.
-
-## 📂 Project Files
-- 📄 Full Project Report → `/Report/Project_Report.pdf`
-
 ## 👩‍🎓 Team Members (2022–2023)
 - Nunna Naga Venkata Sai
 - T. Nagaraju
